@@ -21,3 +21,9 @@ sum=num1+num2
 #It Only Concatinate The Numbers
 print(sum)
 print(int(num1)+int(num2))
+
+#Input Method In Python
+first_name=input("What Is Your First Name ? ")
+last_name=input("What Is Your Last Name ? ")
+print("Your Name Is ",first_name," ",last_name)
+
